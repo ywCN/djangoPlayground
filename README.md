@@ -1,0 +1,2 @@
+# djangoPlayground
+Review django knowledge
