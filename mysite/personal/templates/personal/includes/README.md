@@ -1,1 +1,1 @@
-# TODO: Notes for includes
+# files in this folder are not restricted, so they can be included anywhere.
