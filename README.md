@@ -9,3 +9,6 @@ views.py - handles what the end-user "views" or interact with.
 
 do migration any time a model is created
 each app has a migration
+
+## 代码讲解
+https://pythonprogramming.net/django-web-development-with-python-intro/
