@@ -1,0 +1,1 @@
+migration files are like the constant state of different versions of you website
