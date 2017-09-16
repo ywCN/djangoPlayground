@@ -9,3 +9,4 @@ class Post(models.Model):  # class is the table, each field is col in table
 
     def __str__(self):
         return self.title
+    
